@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "twitter-data-model"
+version = "0.1.0"
+description = "Twitter Data Model for Graph API output (via twitter-api-client)"
+authors = ["Social <127993470+social-virus@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "twitter_data_model"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pydantic = "<2.0"
+pyyaml = "^6.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
