@@ -1,0 +1,37 @@
+{
+  "data": {
+    "search_by_raw_query": {
+      "audio_spaces_grouped_by_section": {
+        "sections": [
+          {
+            "name": "Live",
+            "items": [
+              {
+                "kind": "Audiospace",
+                "followed_participants_results": [],
+                "space": {
+                  "rest_id": "1MYGNgPoldnJw"
+                }
+              },
+              {
+                "kind": "Audiospace",
+                "followed_participants_results": [],
+                "space": {
+                  "rest_id": "1YqGoAdvOjbxv"
+                }
+              },
+              {
+                "kind": "Audiospace",
+                "followed_participants_results": [],
+                "space": {
+                  "rest_id": "1OwGWwdNlmpGQ"
+                }
+              }
+            ],
+            "destination": "Live"
+          }
+        ]
+      }
+    }
+  }
+}

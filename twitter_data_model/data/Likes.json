@@ -1,0 +1,414 @@
+{
+  "entryId": "tweet-1648782486736969728",
+  "sortIndex": "1763644685982261197",
+  "content": {
+    "entryType": "TimelineTimelineItem",
+    "__typename": "TimelineTimelineItem",
+    "itemContent": {
+      "itemType": "TimelineTweet",
+      "__typename": "TimelineTweet",
+      "tweet_results": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "1648782486736969728",
+          "has_birdwatch_notes": false,
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxNTYxOTE4NDQ4NzY2MTczMTg1",
+                "rest_id": "1561918448766173185",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": true,
+                "is_blue_verified": false,
+                "legacy": {
+                  "can_dm": true,
+                  "can_media_tag": true,
+                  "created_at": "Tue Aug 23 03:29:21 +0000 2022",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "A non-profit research lab focused on interpretability, alignment, and ethics of artificial intelligence.\n\nCreators of GPT-J, GPT-NeoX, and VQGAN-CLIP",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "eleuther.ai",
+                          "expanded_url": "http://www.eleuther.ai",
+                          "url": "https://t.co/vg4MNqsTO2",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 238,
+                  "followers_count": 10023,
+                  "friends_count": 48,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 241,
+                  "location": "",
+                  "media_count": 10,
+                  "name": "EleutherAI",
+                  "normal_followers_count": 10023,
+                  "pinned_tweet_ids_str": [
+                    "1631198112889839616"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1561918708553060354/vlqT1dyo_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "screen_name": "AiEleuther",
+                  "statuses_count": 213,
+                  "translator_type": "none",
+                  "url": "https://t.co/vg4MNqsTO2",
+                  "verified": false,
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "professional": {
+                  "rest_id": "1561918901780348929",
+                  "professional_type": "Business",
+                  "category": [
+                    {
+                      "id": 713,
+                      "name": "Science & Technology",
+                      "icon_name": "IconBriefcaseStroke"
+                    }
+                  ]
+                },
+                "smart_blocked_by": false,
+                "smart_blocking": false,
+                "business_account": {}
+              }
+            }
+          },
+          "card": {
+            "rest_id": "https://t.co/3PqbxSAKEB",
+            "legacy": {
+              "binding_values": [
+                {
+                  "key": "thumbnail_image",
+                  "value": {
+                    "image_value": {
+                      "height": 144,
+                      "width": 144,
+                      "url": "https://pbs.twimg.com/card_img/1646757359421644801/GdzFEEC0?format=png&name=144x144_2"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "description",
+                  "value": {
+                    "string_value": "We present basic math related to computation and memory usage for transformers",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "domain",
+                  "value": {
+                    "string_value": "blog.eleuther.ai",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_large",
+                  "value": {
+                    "image_value": {
+                      "height": 420,
+                      "width": 420,
+                      "url": "https://pbs.twimg.com/card_img/1646757359421644801/GdzFEEC0?format=png&name=420x420_2"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_original",
+                  "value": {
+                    "image_value": {
+                      "height": 1024,
+                      "width": 1024,
+                      "url": "https://pbs.twimg.com/card_img/1646757359421644801/GdzFEEC0?format=png&name=orig"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "site",
+                  "value": {
+                    "scribe_key": "publisher_id",
+                    "type": "USER",
+                    "user_value": {
+                      "id_str": "1561918448766173185",
+                      "path": []
+                    }
+                  }
+                },
+                {
+                  "key": "thumbnail_image_small",
+                  "value": {
+                    "image_value": {
+                      "height": 100,
+                      "width": 100,
+                      "url": "https://pbs.twimg.com/card_img/1646757359421644801/GdzFEEC0?format=png&name=100x100_2"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_x_large",
+                  "value": {
+                    "image_value": {
+                      "height": 1024,
+                      "width": 1024,
+                      "url": "https://pbs.twimg.com/card_img/1646757359421644801/GdzFEEC0?format=png&name=2048x2048_2_exp"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "vanity_url",
+                  "value": {
+                    "scribe_key": "vanity_url",
+                    "string_value": "blog.eleuther.ai",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_color",
+                  "value": {
+                    "image_color_value": {
+                      "palette": [
+                        {
+                          "rgb": {
+                            "blue": 0,
+                            "green": 0,
+                            "red": 0
+                          },
+                          "percentage": 82.42
+                        },
+                        {
+                          "rgb": {
+                            "blue": 255,
+                            "green": 255,
+                            "red": 255
+                          },
+                          "percentage": 16.1
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "title",
+                  "value": {
+                    "string_value": "Transformer Math 101",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "card_url",
+                  "value": {
+                    "scribe_key": "card_url",
+                    "string_value": "https://t.co/3PqbxSAKEB",
+                    "type": "STRING"
+                  }
+                }
+              ],
+              "card_platform": {
+                "platform": {
+                  "audience": {
+                    "name": "production"
+                  },
+                  "device": {
+                    "name": "Swift",
+                    "version": "12"
+                  }
+                }
+              },
+              "name": "summary",
+              "url": "https://t.co/3PqbxSAKEB",
+              "user_refs_results": [
+                {
+                  "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoxNTYxOTE4NDQ4NzY2MTczMTg1",
+                    "rest_id": "1561918448766173185",
+                    "affiliates_highlighted_label": {},
+                    "has_graduated_access": true,
+                    "is_blue_verified": false,
+                    "legacy": {
+                      "can_dm": true,
+                      "can_media_tag": true,
+                      "created_at": "Tue Aug 23 03:29:21 +0000 2022",
+                      "default_profile": true,
+                      "default_profile_image": false,
+                      "description": "A non-profit research lab focused on interpretability, alignment, and ethics of artificial intelligence.\n\nCreators of GPT-J, GPT-NeoX, and VQGAN-CLIP",
+                      "entities": {
+                        "description": {
+                          "urls": []
+                        },
+                        "url": {
+                          "urls": [
+                            {
+                              "display_url": "eleuther.ai",
+                              "expanded_url": "http://www.eleuther.ai",
+                              "url": "https://t.co/vg4MNqsTO2",
+                              "indices": [
+                                0,
+                                23
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      "fast_followers_count": 0,
+                      "favourites_count": 238,
+                      "followers_count": 10023,
+                      "friends_count": 48,
+                      "has_custom_timelines": false,
+                      "is_translator": false,
+                      "listed_count": 241,
+                      "location": "",
+                      "media_count": 10,
+                      "name": "EleutherAI",
+                      "normal_followers_count": 10023,
+                      "pinned_tweet_ids_str": [
+                        "1631198112889839616"
+                      ],
+                      "possibly_sensitive": false,
+                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1561918708553060354/vlqT1dyo_normal.jpg",
+                      "profile_interstitial_type": "",
+                      "screen_name": "AiEleuther",
+                      "statuses_count": 213,
+                      "translator_type": "none",
+                      "url": "https://t.co/vg4MNqsTO2",
+                      "verified": false,
+                      "want_retweets": false,
+                      "withheld_in_countries": []
+                    },
+                    "professional": {
+                      "rest_id": "1561918901780348929",
+                      "professional_type": "Business",
+                      "category": [
+                        {
+                          "id": 713,
+                          "name": "Science & Technology",
+                          "icon_name": "IconBriefcaseStroke"
+                        }
+                      ]
+                    },
+                    "smart_blocked_by": false,
+                    "smart_blocking": false,
+                    "business_account": {}
+                  }
+                }
+              ]
+            }
+          },
+          "unmention_data": {},
+          "unified_card": {
+            "card_fetch_state": "NoCard"
+          },
+          "edit_control": {
+            "edit_tweet_ids": [
+              "1648782486736969728"
+            ],
+            "editable_until_msecs": "1681937152000",
+            "is_edit_eligible": false,
+            "edits_remaining": "5"
+          },
+          "edit_perspective": {
+            "favorited": false,
+            "retweeted": false
+          },
+          "is_translatable": false,
+          "views": {
+            "count": "21491",
+            "state": "EnabledWithCount"
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "legacy": {
+            "created_at": "Wed Apr 19 20:15:52 +0000 2023",
+            "conversation_id_str": "1648782486736969728",
+            "display_text_range": [
+              0,
+              274
+            ],
+            "entities": {
+              "user_mentions": [
+                {
+                  "id_str": "1141487623803830272",
+                  "name": "Quentin Anthony",
+                  "screen_name": "QuentinAnthon15",
+                  "indices": [
+                    197,
+                    213
+                  ]
+                },
+                {
+                  "id_str": "1125849026308575239",
+                  "name": "Stella Rose Biderman",
+                  "screen_name": "BlancheMinerva",
+                  "indices": [
+                    215,
+                    230
+                  ]
+                },
+                {
+                  "id_str": "1539065191622709249",
+                  "name": "Hailey Schoelkopf",
+                  "screen_name": "haileysch__",
+                  "indices": [
+                    236,
+                    248
+                  ]
+                }
+              ],
+              "urls": [
+                {
+                  "display_url": "blog.eleuther.ai/transformer-ma…",
+                  "expanded_url": "https://blog.eleuther.ai/transformer-math/",
+                  "url": "https://t.co/3PqbxSAKEB",
+                  "indices": [
+                    251,
+                    274
+                  ]
+                }
+              ],
+              "hashtags": [],
+              "symbols": []
+            },
+            "favorite_count": 169,
+            "favorited": false,
+            "full_text": "The most common question we get about our models is \"will X fit on Y GPU?\" This, and many more questions about training and inferring with LLMs, can be answered with some relatively easy math.\n\nBy @QuentinAnthon15, @BlancheMinerva, and @haileysch__ \n\nhttps://t.co/3PqbxSAKEB",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 3,
+            "reply_count": 6,
+            "retweet_count": 27,
+            "retweeted": false,
+            "user_id_str": "1561918448766173185",
+            "id_str": "1648782486736969728",
+            "self_thread": {
+              "id_str": "1648782486736969728"
+            }
+          },
+          "quick_promote_eligibility": {
+            "eligibility": "IneligibleNotProfessional"
+          }
+        }
+      },
+      "tweetDisplayType": "Tweet"
+    }
+  }
+}

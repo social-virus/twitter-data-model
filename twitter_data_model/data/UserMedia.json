@@ -1,0 +1,293 @@
+{
+  "entryId": "tweet-1647421539279851521",
+  "sortIndex": "1648831310464024576",
+  "content": {
+    "entryType": "TimelineTimelineItem",
+    "__typename": "TimelineTimelineItem",
+    "itemContent": {
+      "itemType": "TimelineTweet",
+      "__typename": "TimelineTweet",
+      "tweet_results": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "1647421539279851521",
+          "has_birdwatch_notes": false,
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjozMzgzNjYyOQ==",
+                "rest_id": "33836629",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": true,
+                "is_blue_verified": true,
+                "profile_image_shape": "Circle",
+                "legacy": {
+                  "can_dm": false,
+                  "can_media_tag": true,
+                  "created_at": "Tue Apr 21 06:49:15 +0000 2009",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "description": "Building a kind of JARVIS @ OреոΑӏ. Previously Director of AI @ Tesla, CS231n, PhD @ Stanford. I like to train large deep neural nets 🧠🤖💥",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "karpathy.ai",
+                          "expanded_url": "https://karpathy.ai",
+                          "url": "https://t.co/0EcFthjJXM",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 7312,
+                  "followers_count": 701921,
+                  "friends_count": 809,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 9207,
+                  "location": "Stanford",
+                  "media_count": 633,
+                  "name": "Andrej Karpathy",
+                  "normal_followers_count": 701921,
+                  "pinned_tweet_ids_str": [
+                    "1599152286672248832"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/33836629/1407117611",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "screen_name": "karpathy",
+                  "statuses_count": 8067,
+                  "translator_type": "none",
+                  "url": "https://t.co/0EcFthjJXM",
+                  "verified": true,
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "smart_blocked_by": false,
+                "smart_blocking": false
+              }
+            }
+          },
+          "unmention_data": {},
+          "edit_control": {
+            "edit_tweet_ids": [
+              "1647421539279851521"
+            ],
+            "editable_until_msecs": "1681612677000",
+            "is_edit_eligible": false,
+            "edits_remaining": "5"
+          },
+          "edit_perspective": {
+            "favorited": false,
+            "retweeted": false
+          },
+          "is_translatable": false,
+          "views": {
+            "count": "120254",
+            "state": "EnabledWithCount"
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "legacy": {
+            "bookmark_count": 81,
+            "bookmarked": false,
+            "created_at": "Sun Apr 16 02:07:57 +0000 2023",
+            "conversation_id_str": "1647372603907280896",
+            "display_text_range": [
+              0,
+              273
+            ],
+            "entities": {
+              "media": [
+                {
+                  "display_url": "pic.twitter.com/JTdj3XW2eK",
+                  "expanded_url": "https://twitter.com/karpathy/status/1647421539279851521/photo/1",
+                  "id_str": "1647420746615132160",
+                  "indices": [
+                    274,
+                    297
+                  ],
+                  "media_url_https": "https://pbs.twimg.com/media/FtzQcM2akAARlW7.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/JTdj3XW2eK",
+                  "sizes": {
+                    "large": {
+                      "h": 348,
+                      "w": 1814,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 230,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 130,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 348,
+                    "width": 1814,
+                    "focus_rects": [
+                      {
+                        "x": 597,
+                        "y": 0,
+                        "w": 621,
+                        "h": 348
+                      },
+                      {
+                        "x": 733,
+                        "y": 0,
+                        "w": 348,
+                        "h": 348
+                      },
+                      {
+                        "x": 755,
+                        "y": 0,
+                        "w": 305,
+                        "h": 348
+                      },
+                      {
+                        "x": 820,
+                        "y": 0,
+                        "w": 174,
+                        "h": 348
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1814,
+                        "h": 348
+                      }
+                    ]
+                  }
+                }
+              ],
+              "user_mentions": [],
+              "urls": [],
+              "hashtags": [],
+              "symbols": []
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "display_url": "pic.twitter.com/JTdj3XW2eK",
+                  "expanded_url": "https://twitter.com/karpathy/status/1647421539279851521/photo/1",
+                  "id_str": "1647420746615132160",
+                  "indices": [
+                    274,
+                    297
+                  ],
+                  "media_key": "3_1647420746615132160",
+                  "media_url_https": "https://pbs.twimg.com/media/FtzQcM2akAARlW7.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/JTdj3XW2eK",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 348,
+                      "w": 1814,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 230,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 130,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 348,
+                    "width": 1814,
+                    "focus_rects": [
+                      {
+                        "x": 597,
+                        "y": 0,
+                        "w": 621,
+                        "h": 348
+                      },
+                      {
+                        "x": 733,
+                        "y": 0,
+                        "w": 348,
+                        "h": 348
+                      },
+                      {
+                        "x": 755,
+                        "y": 0,
+                        "w": 305,
+                        "h": 348
+                      },
+                      {
+                        "x": 820,
+                        "y": 0,
+                        "w": 174,
+                        "h": 348
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1814,
+                        "h": 348
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "favorite_count": 460,
+            "favorited": false,
+            "full_text": "For science I also added:\n- Choice of Embedding: simple tfidf bigrams or the OpenAI API embeddings ada-002 (ada should work better (?), tfidf is much much simpler)\n- Choice of Ranker: kNN (much faster/simpler) or SVM\nDefault that seems to be both good &amp; fast is ada+knn https://t.co/JTdj3XW2eK",
+            "in_reply_to_screen_name": "karpathy",
+            "in_reply_to_status_id_str": "1647372603907280896",
+            "in_reply_to_user_id_str": "33836629",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 2,
+            "reply_count": 39,
+            "retweet_count": 21,
+            "retweeted": false,
+            "user_id_str": "33836629",
+            "id_str": "1647421539279851521",
+            "self_thread": {
+              "id_str": "1647372603907280896"
+            }
+          },
+          "quick_promote_eligibility": {
+            "eligibility": "IneligibleNotProfessional"
+          }
+        }
+      },
+      "tweetDisplayType": "Tweet"
+    }
+  }
+}

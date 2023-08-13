@@ -1,0 +1,54 @@
+{
+  "data": {
+    "users": [
+      {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxNzIwMDQ2ODg3",
+          "rest_id": "1720046887",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "legacy": {
+            "can_dm": false,
+            "can_media_tag": true,
+            "created_at": "Sun Sep 01 19:32:15 +0000 2013",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "towards a plurality of humanity loving AGIs @openai",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 4320,
+            "followers_count": 168879,
+            "friends_count": 2,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "listed_count": 2777,
+            "location": "",
+            "media_count": 25,
+            "name": "Ilya Sutskever",
+            "normal_followers_count": 168879,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720046887/1648404188",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1548311632597553154/WYGE5NGW_normal.jpg",
+            "profile_interstitial_type": "",
+            "screen_name": "ilyasut",
+            "statuses_count": 1082,
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "smart_blocked_by": false,
+          "smart_blocking": false
+        }
+      }
+    ]
+  }
+}

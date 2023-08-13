@@ -1,0 +1,794 @@
+{
+  "entryId": "tweet-1648726807301218305",
+  "sortIndex": "1648726807301218305",
+  "content": {
+    "entryType": "TimelineTimelineItem",
+    "__typename": "TimelineTimelineItem",
+    "itemContent": {
+      "itemType": "TimelineTweet",
+      "__typename": "TimelineTweet",
+      "tweet_results": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "1648726807301218305",
+          "has_birdwatch_notes": false,
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjozMzgzNjYyOQ==",
+                "rest_id": "33836629",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": true,
+                "is_blue_verified": true,
+                "profile_image_shape": "Circle",
+                "legacy": {
+                  "can_dm": false,
+                  "can_media_tag": true,
+                  "created_at": "Tue Apr 21 06:49:15 +0000 2009",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "description": "Building a kind of JARVIS @ OреոΑӏ. Previously Director of AI @ Tesla, CS231n, PhD @ Stanford. I like to train large deep neural nets 🧠🤖💥",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "karpathy.ai",
+                          "expanded_url": "https://karpathy.ai",
+                          "url": "https://t.co/0EcFthjJXM",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 7312,
+                  "followers_count": 701921,
+                  "friends_count": 809,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 9207,
+                  "location": "Stanford",
+                  "media_count": 633,
+                  "name": "Andrej Karpathy",
+                  "normal_followers_count": 701921,
+                  "pinned_tweet_ids_str": [
+                    "1599152286672248832"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/33836629/1407117611",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "screen_name": "karpathy",
+                  "statuses_count": 8067,
+                  "translator_type": "none",
+                  "url": "https://t.co/0EcFthjJXM",
+                  "verified": true,
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "smart_blocked_by": false,
+                "smart_blocking": false
+              }
+            }
+          },
+          "unmention_data": {},
+          "edit_control": {
+            "edit_tweet_ids": [
+              "1648726807301218305"
+            ],
+            "editable_until_msecs": "1681923877000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+          },
+          "edit_perspective": {
+            "favorited": false,
+            "retweeted": false
+          },
+          "is_translatable": false,
+          "views": {
+            "count": "409371",
+            "state": "EnabledWithCount"
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "quoted_status_result": {
+            "result": {
+              "__typename": "Tweet",
+              "rest_id": "1647434714947395585",
+              "has_birdwatch_notes": false,
+              "core": {
+                "user_results": {
+                  "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjozMTA4MzUx",
+                    "rest_id": "3108351",
+                    "affiliates_highlighted_label": {},
+                    "has_graduated_access": true,
+                    "is_blue_verified": false,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                      "can_dm": false,
+                      "can_media_tag": true,
+                      "created_at": "Sun Apr 01 06:22:13 +0000 2007",
+                      "default_profile": false,
+                      "default_profile_image": false,
+                      "description": "Sign up for our newsletters and alerts: https://t.co/QevH0DLisA | Got a tip? https://t.co/iXIigdOLPr | For WSJ customer support: https://t.co/DZgH9n4vAI",
+                      "entities": {
+                        "description": {
+                          "urls": [
+                            {
+                              "display_url": "wsj.com/newsletters",
+                              "expanded_url": "http://wsj.com/newsletters",
+                              "url": "https://t.co/QevH0DLisA",
+                              "indices": [
+                                40,
+                                63
+                              ]
+                            },
+                            {
+                              "display_url": "wsj.com/tips",
+                              "expanded_url": "http://wsj.com/tips",
+                              "url": "https://t.co/iXIigdOLPr",
+                              "indices": [
+                                77,
+                                100
+                              ]
+                            },
+                            {
+                              "display_url": "customercenter.wsj.com",
+                              "expanded_url": "http://customercenter.wsj.com",
+                              "url": "https://t.co/DZgH9n4vAI",
+                              "indices": [
+                                129,
+                                152
+                              ]
+                            }
+                          ]
+                        },
+                        "url": {
+                          "urls": [
+                            {
+                              "display_url": "wsj.com",
+                              "expanded_url": "http://wsj.com",
+                              "url": "https://t.co/9rMrYLEXTt",
+                              "indices": [
+                                0,
+                                23
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      "fast_followers_count": 0,
+                      "favourites_count": 1137,
+                      "followers_count": 20521959,
+                      "friends_count": 1087,
+                      "has_custom_timelines": true,
+                      "is_translator": false,
+                      "listed_count": 128849,
+                      "location": "New York, NY",
+                      "media_count": 45523,
+                      "name": "The Wall Street Journal",
+                      "normal_followers_count": 20521959,
+                      "pinned_tweet_ids_str": [
+                        "1648690341581651971"
+                      ],
+                      "possibly_sensitive": false,
+                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3108351/1680557947",
+                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+                      "profile_interstitial_type": "",
+                      "screen_name": "WSJ",
+                      "statuses_count": 404295,
+                      "translator_type": "regular",
+                      "url": "https://t.co/9rMrYLEXTt",
+                      "verified": true,
+                      "verified_type": "Business",
+                      "want_retweets": false,
+                      "withheld_in_countries": []
+                    },
+                    "smart_blocked_by": false,
+                    "smart_blocking": false
+                  }
+                }
+              },
+              "card": {
+                "rest_id": "https://t.co/eDupI8Jpey",
+                "legacy": {
+                  "binding_values": [
+                    {
+                      "key": "photo_image_full_size_large",
+                      "value": {
+                        "image_value": {
+                          "height": 419,
+                          "width": 800,
+                          "url": "https://pbs.twimg.com/card_img/1644698702035185664/Q7MqVdeE?format=jpg&name=800x419"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "thumbnail_image",
+                      "value": {
+                        "image_value": {
+                          "height": 150,
+                          "width": 267,
+                          "url": "https://pbs.twimg.com/card_img/1644698702035185664/Q7MqVdeE?format=jpg&name=280x150"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "description",
+                      "value": {
+                        "string_value": "iPhone thieves across the country are locking people out of their Apple accounts and draining their bank accounts—sometimes before victims even know what happen",
+                        "type": "STRING"
+                      }
+                    },
+                    {
+                      "key": "domain",
+                      "value": {
+                        "string_value": "www.wsj.com",
+                        "type": "STRING"
+                      }
+                    },
+                    {
+                      "key": "thumbnail_image_large",
+                      "value": {
+                        "image_value": {
+                          "height": 320,
+                          "width": 569,
+                          "url": "https://pbs.twimg.com/card_img/1644698702035185664/Q7MqVdeE?format=jpg&name=800x320_1"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "summary_photo_image_small",
+                      "value": {
+                        "image_value": {
+                          "height": 202,
+                          "width": 386,
+                          "url": "https://pbs.twimg.com/card_img/1644698702035185664/Q7MqVdeE?format=jpg&name=386x202"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "thumbnail_image_original",
+                      "value": {
+                        "image_value": {
+                          "height": 720,
+                          "width": 1280,
+                          "url": "https://pbs.twimg.com/card_img/1644698702035185664/Q7MqVdeE?format=jpg&name=orig"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "site",
+                      "value": {
+                        "scribe_key": "publisher_id",
+                        "type": "USER",
+                        "user_value": {
+                          "id_str": "3108351",
+                          "path": []
+                        }
+                      }
+                    },
+                    {
+                      "key": "photo_image_full_size_small",
+                      "value": {
+                        "image_value": {
+                          "height": 202,
+                          "width": 386,
+                          "url": "https://pbs.twimg.com/card_img/1644698702035185664/Q7MqVdeE?format=jpg&name=386x202"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "summary_photo_image_large",
+                      "value": {
+                        "image_value": {
+                          "height": 419,
+                          "width": 800,
+                          "url": "https://pbs.twimg.com/card_img/1644698702035185664/Q7MqVdeE?format=jpg&name=800x419"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "thumbnail_image_small",
+                      "value": {
+                        "image_value": {
+                          "height": 81,
+                          "width": 144,
+                          "url": "https://pbs.twimg.com/card_img/1644698702035185664/Q7MqVdeE?format=jpg&name=144x144"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "thumbnail_image_x_large",
+                      "value": {
+                        "image_value": {
+                          "height": 720,
+                          "width": 1280,
+                          "url": "https://pbs.twimg.com/card_img/1644698702035185664/Q7MqVdeE?format=png&name=2048x2048_2_exp"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "photo_image_full_size_original",
+                      "value": {
+                        "image_value": {
+                          "height": 720,
+                          "width": 1280,
+                          "url": "https://pbs.twimg.com/card_img/1644698702035185664/Q7MqVdeE?format=jpg&name=orig"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "vanity_url",
+                      "value": {
+                        "scribe_key": "vanity_url",
+                        "string_value": "wsj.com",
+                        "type": "STRING"
+                      }
+                    },
+                    {
+                      "key": "photo_image_full_size",
+                      "value": {
+                        "image_value": {
+                          "height": 314,
+                          "width": 600,
+                          "url": "https://pbs.twimg.com/card_img/1644698702035185664/Q7MqVdeE?format=jpg&name=600x314"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "thumbnail_image_color",
+                      "value": {
+                        "image_color_value": {
+                          "palette": [
+                            {
+                              "rgb": {
+                                "blue": 14,
+                                "green": 17,
+                                "red": 2
+                              },
+                              "percentage": 80.84
+                            },
+                            {
+                              "rgb": {
+                                "blue": 118,
+                                "green": 92,
+                                "red": 1
+                              },
+                              "percentage": 10.71
+                            },
+                            {
+                              "rgb": {
+                                "blue": 253,
+                                "green": 225,
+                                "red": 182
+                              },
+                              "percentage": 2.22
+                            },
+                            {
+                              "rgb": {
+                                "blue": 200,
+                                "green": 158,
+                                "red": 0
+                              },
+                              "percentage": 1.93
+                            },
+                            {
+                              "rgb": {
+                                "blue": 107,
+                                "green": 96,
+                                "red": 6
+                              },
+                              "percentage": 1.14
+                            }
+                          ]
+                        },
+                        "type": "IMAGE_COLOR"
+                      }
+                    },
+                    {
+                      "key": "title",
+                      "value": {
+                        "string_value": "Apple’s iPhone Passcode Problem: How Thieves Can Take Over in Minutes",
+                        "type": "STRING"
+                      }
+                    },
+                    {
+                      "key": "summary_photo_image_color",
+                      "value": {
+                        "image_color_value": {
+                          "palette": [
+                            {
+                              "rgb": {
+                                "blue": 14,
+                                "green": 17,
+                                "red": 2
+                              },
+                              "percentage": 80.84
+                            },
+                            {
+                              "rgb": {
+                                "blue": 118,
+                                "green": 92,
+                                "red": 1
+                              },
+                              "percentage": 10.71
+                            },
+                            {
+                              "rgb": {
+                                "blue": 253,
+                                "green": 225,
+                                "red": 182
+                              },
+                              "percentage": 2.22
+                            },
+                            {
+                              "rgb": {
+                                "blue": 200,
+                                "green": 158,
+                                "red": 0
+                              },
+                              "percentage": 1.93
+                            },
+                            {
+                              "rgb": {
+                                "blue": 107,
+                                "green": 96,
+                                "red": 6
+                              },
+                              "percentage": 1.14
+                            }
+                          ]
+                        },
+                        "type": "IMAGE_COLOR"
+                      }
+                    },
+                    {
+                      "key": "summary_photo_image_x_large",
+                      "value": {
+                        "image_value": {
+                          "height": 720,
+                          "width": 1280,
+                          "url": "https://pbs.twimg.com/card_img/1644698702035185664/Q7MqVdeE?format=png&name=2048x2048_2_exp"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "summary_photo_image",
+                      "value": {
+                        "image_value": {
+                          "height": 314,
+                          "width": 600,
+                          "url": "https://pbs.twimg.com/card_img/1644698702035185664/Q7MqVdeE?format=jpg&name=600x314"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "photo_image_full_size_color",
+                      "value": {
+                        "image_color_value": {
+                          "palette": [
+                            {
+                              "rgb": {
+                                "blue": 14,
+                                "green": 17,
+                                "red": 2
+                              },
+                              "percentage": 80.84
+                            },
+                            {
+                              "rgb": {
+                                "blue": 118,
+                                "green": 92,
+                                "red": 1
+                              },
+                              "percentage": 10.71
+                            },
+                            {
+                              "rgb": {
+                                "blue": 253,
+                                "green": 225,
+                                "red": 182
+                              },
+                              "percentage": 2.22
+                            },
+                            {
+                              "rgb": {
+                                "blue": 200,
+                                "green": 158,
+                                "red": 0
+                              },
+                              "percentage": 1.93
+                            },
+                            {
+                              "rgb": {
+                                "blue": 107,
+                                "green": 96,
+                                "red": 6
+                              },
+                              "percentage": 1.14
+                            }
+                          ]
+                        },
+                        "type": "IMAGE_COLOR"
+                      }
+                    },
+                    {
+                      "key": "photo_image_full_size_x_large",
+                      "value": {
+                        "image_value": {
+                          "height": 720,
+                          "width": 1280,
+                          "url": "https://pbs.twimg.com/card_img/1644698702035185664/Q7MqVdeE?format=png&name=2048x2048_2_exp"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "card_url",
+                      "value": {
+                        "scribe_key": "card_url",
+                        "string_value": "https://t.co/eDupI8Jpey",
+                        "type": "STRING"
+                      }
+                    },
+                    {
+                      "key": "summary_photo_image_original",
+                      "value": {
+                        "image_value": {
+                          "height": 720,
+                          "width": 1280,
+                          "url": "https://pbs.twimg.com/card_img/1644698702035185664/Q7MqVdeE?format=jpg&name=orig"
+                        },
+                        "type": "IMAGE"
+                      }
+                    }
+                  ],
+                  "card_platform": {
+                    "platform": {
+                      "audience": {
+                        "name": "production"
+                      },
+                      "device": {
+                        "name": "Swift",
+                        "version": "12"
+                      }
+                    }
+                  },
+                  "name": "summary_large_image",
+                  "url": "https://t.co/eDupI8Jpey",
+                  "user_refs_results": [
+                    {
+                      "result": {
+                        "__typename": "User",
+                        "id": "VXNlcjozMTA4MzUx",
+                        "rest_id": "3108351",
+                        "affiliates_highlighted_label": {},
+                        "has_graduated_access": true,
+                        "is_blue_verified": false,
+                        "profile_image_shape": "Square",
+                        "legacy": {
+                          "can_dm": false,
+                          "can_media_tag": true,
+                          "created_at": "Sun Apr 01 06:22:13 +0000 2007",
+                          "default_profile": false,
+                          "default_profile_image": false,
+                          "description": "Sign up for our newsletters and alerts: https://t.co/QevH0DLisA | Got a tip? https://t.co/iXIigdOLPr | For WSJ customer support: https://t.co/DZgH9n4vAI",
+                          "entities": {
+                            "description": {
+                              "urls": [
+                                {
+                                  "display_url": "wsj.com/newsletters",
+                                  "expanded_url": "http://wsj.com/newsletters",
+                                  "url": "https://t.co/QevH0DLisA",
+                                  "indices": [
+                                    40,
+                                    63
+                                  ]
+                                },
+                                {
+                                  "display_url": "wsj.com/tips",
+                                  "expanded_url": "http://wsj.com/tips",
+                                  "url": "https://t.co/iXIigdOLPr",
+                                  "indices": [
+                                    77,
+                                    100
+                                  ]
+                                },
+                                {
+                                  "display_url": "customercenter.wsj.com",
+                                  "expanded_url": "http://customercenter.wsj.com",
+                                  "url": "https://t.co/DZgH9n4vAI",
+                                  "indices": [
+                                    129,
+                                    152
+                                  ]
+                                }
+                              ]
+                            },
+                            "url": {
+                              "urls": [
+                                {
+                                  "display_url": "wsj.com",
+                                  "expanded_url": "http://wsj.com",
+                                  "url": "https://t.co/9rMrYLEXTt",
+                                  "indices": [
+                                    0,
+                                    23
+                                  ]
+                                }
+                              ]
+                            }
+                          },
+                          "fast_followers_count": 0,
+                          "favourites_count": 1137,
+                          "followers_count": 20521959,
+                          "friends_count": 1087,
+                          "has_custom_timelines": true,
+                          "is_translator": false,
+                          "listed_count": 128849,
+                          "location": "New York, NY",
+                          "media_count": 45523,
+                          "name": "The Wall Street Journal",
+                          "normal_followers_count": 20521959,
+                          "pinned_tweet_ids_str": [
+                            "1648690341581651971"
+                          ],
+                          "possibly_sensitive": false,
+                          "profile_banner_url": "https://pbs.twimg.com/profile_banners/3108351/1680557947",
+                          "profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+                          "profile_interstitial_type": "",
+                          "screen_name": "WSJ",
+                          "statuses_count": 404295,
+                          "translator_type": "regular",
+                          "url": "https://t.co/9rMrYLEXTt",
+                          "verified": true,
+                          "verified_type": "Business",
+                          "want_retweets": false,
+                          "withheld_in_countries": []
+                        },
+                        "smart_blocked_by": false,
+                        "smart_blocking": false
+                      }
+                    }
+                  ]
+                }
+              },
+              "unmention_data": {},
+              "unified_card": {
+                "card_fetch_state": "NoCard"
+              },
+              "edit_control": {
+                "edit_tweet_ids": [
+                  "1647434714947395585"
+                ],
+                "editable_until_msecs": "1681615818000",
+                "is_edit_eligible": true,
+                "edits_remaining": "5"
+              },
+              "edit_perspective": {
+                "favorited": false,
+                "retweeted": false
+              },
+              "is_translatable": false,
+              "views": {
+                "count": "579625",
+                "state": "EnabledWithCount"
+              },
+              "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+              "legacy": {
+                "bookmark_count": 136,
+                "bookmarked": false,
+                "created_at": "Sun Apr 16 03:00:18 +0000 2023",
+                "conversation_id_str": "1647434714947395585",
+                "display_text_range": [
+                  0,
+                  204
+                ],
+                "entities": {
+                  "user_mentions": [],
+                  "urls": [
+                    {
+                      "display_url": "on.wsj.com/41n5c46",
+                      "expanded_url": "https://on.wsj.com/41n5c46",
+                      "url": "https://t.co/eDupI8Jpey",
+                      "indices": [
+                        181,
+                        204
+                      ]
+                    }
+                  ],
+                  "hashtags": [],
+                  "symbols": []
+                },
+                "favorite_count": 182,
+                "favorited": false,
+                "full_text": "Watch: iPhone thieves across the country are locking people out of their Apple accounts and draining their bank accounts. Here's how do they do it and how can you protect yourself. https://t.co/eDupI8Jpey",
+                "is_quote_status": false,
+                "lang": "en",
+                "possibly_sensitive": false,
+                "possibly_sensitive_editable": true,
+                "quote_count": 8,
+                "reply_count": 15,
+                "retweet_count": 58,
+                "retweeted": false,
+                "user_id_str": "3108351",
+                "id_str": "1647434714947395585"
+              }
+            }
+          },
+          "legacy": {
+            "bookmark_count": 513,
+            "bookmarked": false,
+            "created_at": "Wed Apr 19 16:34:37 +0000 2023",
+            "conversation_id_str": "1648726807301218305",
+            "display_text_range": [
+              0,
+              282
+            ],
+            "entities": {
+              "user_mentions": [],
+              "urls": [
+                {
+                  "display_url": "karltarvas.com/2023/02/25/pro…",
+                  "expanded_url": "https://www.karltarvas.com/2023/02/25/protecting-your-iphone-against-shoulder-surfing-password-theft.html",
+                  "url": "https://t.co/wMz2lJ5TuA",
+                  "indices": [
+                    259,
+                    282
+                  ]
+                }
+              ],
+              "hashtags": [],
+              "symbols": []
+            },
+            "favorite_count": 935,
+            "favorited": false,
+            "full_text": "Reminder/PSA: Your iPhone and its passcode are enough to completely &amp; permanently take over and lock you out of your Apple account and all of its content (e.g. years of personal photos). Thieves/scammers everywhere love these \"features\".\n\nworkaround fix: https://t.co/wMz2lJ5TuA",
+            "is_quote_status": true,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 11,
+            "quoted_status_id_str": "1647434714947395585",
+            "quoted_status_permalink": {
+              "url": "https://t.co/kmygNfuCoz",
+              "expanded": "https://twitter.com/WSJ/status/1647434714947395585",
+              "display": "twitter.com/WSJ/status/164…"
+            },
+            "reply_count": 44,
+            "retweet_count": 177,
+            "retweeted": false,
+            "user_id_str": "33836629",
+            "id_str": "1648726807301218305"
+          },
+          "quick_promote_eligibility": {
+            "eligibility": "IneligibleNotProfessional"
+          }
+        }
+      },
+      "tweetDisplayType": "Tweet"
+    }
+  }
+}
