@@ -8,6 +8,12 @@ from .audio_space import AudioSpace
 from .audio_space_search import AudioSpaceSearch
 
 
+__all__ = [
+    "AudioSpaceResult",
+    "AudioSpaceSearchResult",
+]
+
+
 # pylint: disable=too-few-public-methods
 
 

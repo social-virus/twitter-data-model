@@ -10,6 +10,11 @@ from pydantic import (  # pylint: disable=no-name-in-module
 )
 
 
+__all__ = [
+    "AudioSpaceSearch",
+]
+
+
 # pylint: disable=too-few-public-methods
 
 

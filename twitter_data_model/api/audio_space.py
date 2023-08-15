@@ -17,6 +17,11 @@ from .tweet_response import TweetResult
 from .user_response import User, UserResult
 
 
+__all__ = [
+    "AudioSpace",
+]
+
+
 # pylint: disable=too-few-public-methods
 
 
