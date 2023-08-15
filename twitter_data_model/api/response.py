@@ -134,5 +134,6 @@ class DataResult(BaseModel):
         return cls(**data)
 
 
+DataResponseList.update_forward_refs()
 DataResponse.update_forward_refs()
 DataResult.update_forward_refs()
