@@ -31,8 +31,10 @@ from .tweet_response import (
 from .user_response import (
     User,
     UserResponse,
+    UserResponseNull,
     UserResult,
     UsersResult,
+    UserUnavailable,
 )
 
 from .utils import load_json
@@ -49,17 +51,17 @@ class DataResponseList(BaseModel):
     """Collect a list of Data Response objects."""
 
     __root__: List[DataResponse]
-    
+
     def __delitem__(self, item: int) -> None:
         del self.__root__[item]
-    
+
     def __getitem__(self, item: int) -> DataResponse:
         return self.__root__[item]
-    
+
     def __iter__(self):
         for item in self.__root__:
             yield item
-    
+
     def __len__(self):
         return len(self.__root__)
 
@@ -77,6 +79,7 @@ class DataResponse(BaseModel):
         DataResult,
         TweetResultAlt,
         UserResponse,
+        UserResponseNull,
         UserResult,
         UsersResult,
         AudioSpaceResult,
