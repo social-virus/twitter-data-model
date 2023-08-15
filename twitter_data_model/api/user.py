@@ -183,7 +183,7 @@ class ProfessionalCategory(BaseModel):
 
     id: int
     name: str
-    icon_name: str
+    icon_name: Optional[str]
 
 
 UserType = Annotated[Union[User, UserUnavailable], Field(discriminator="typename")]
