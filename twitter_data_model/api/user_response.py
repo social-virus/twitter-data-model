@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from typing import (
+    Annotated,
     List,
     Union,
 )
@@ -8,13 +9,24 @@ from typing import (
 
 from pydantic import (  # pylint: disable=no-name-in-module
     BaseModel,
+    Field,
 )
 
 
 from .user import User
+from .user_unavailable import UserUnavailable
 
 
 # pylint: disable=too-few-public-methods
+
+
+class UserResponseNull(BaseModel):
+    """Null user response."""
+
+    ...  # pylint: disable=unnecessary-ellipsis
+
+    class Config:
+        extra: str = "forbid"
 
 
 class UserResponse(BaseModel):
@@ -34,7 +46,7 @@ class UserResponse(BaseModel):
 class UserResult(BaseModel):
     """User Result class object."""
 
-    result: User
+    result: Annotated[Union[User, UserUnavailable], Field(discriminator="typename")]
 
 
 class UserResults(BaseModel):
@@ -59,5 +71,6 @@ class UsersResult(BaseModel):
         return self.users
 
 
+UserResponseNull.update_forward_refs()
 UserResponse.update_forward_refs()
 UserResult.update_forward_refs()
